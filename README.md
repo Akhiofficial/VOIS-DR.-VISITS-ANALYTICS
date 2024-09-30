@@ -23,4 +23,5 @@ Pandas
 Numpy
 Matplotlib
 Seaborn
-Jupyter (optional, for interactive exploration
+Jupyter
+
